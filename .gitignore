@@ -5,5 +5,4 @@ node_modules/
 auth-ms
 client-gateway
 k8s
-orders-ms
 payments-ms
